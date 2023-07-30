@@ -35,5 +35,7 @@ public class HWDemo {
 		System.out.println("Tristan3");
 		System.out.println("Tristan4");
 		
+		System.out.println("Ajmal 4");
+		
 	}
 }
