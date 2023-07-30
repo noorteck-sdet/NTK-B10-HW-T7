@@ -6,5 +6,7 @@ public class HWDemo {
 		System.out.println("HW");
 		
 		System.out.println("Joshua");
+		System.out.println("Gibet Telma");
+		
 	}
 }
