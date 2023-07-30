@@ -12,14 +12,6 @@ public class HWDemo {
 		
 		System.out.println("Reema 1");
 		
-
-		System.out.println("Gibet Telma");
-
-
-		System.out.println("Reema 2");
-		
-		System.out.println("Reema 3");
-
 		System.out.println("Joshua 2");
 		
 		System.out.println("Ajmal 2");
@@ -28,5 +20,9 @@ public class HWDemo {
 		
 		
 		System.out.println("Gibet Telma");
+		
+		System.out.println("Joshua 3");
+		
+		System.out.println("Joshua 4");
 	}
 }
