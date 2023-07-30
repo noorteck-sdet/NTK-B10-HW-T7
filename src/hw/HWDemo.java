@@ -30,5 +30,10 @@ public class HWDemo {
 		System.out.println("Gibet Telma3");
 		System.out.println("Gibet Telma4");
 		
+		System.out.println("Tristan");
+		System.out.println("Tristan2");
+		System.out.println("Tristan3");
+		System.out.println("Tristan4");
+		
 	}
 }
