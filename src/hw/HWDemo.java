@@ -37,5 +37,8 @@ public class HWDemo {
 		
 		System.out.println("Ajmal 4");
 		
+		
+		System.out.println("Reema 2");
+		System.out.println("Reema 3");
 	}
 }
