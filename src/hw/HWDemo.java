@@ -41,4 +41,9 @@ public class HWDemo {
 		System.out.println("Reema 2");
 		System.out.println("Reema 3");
 	}
+	
+	
+	  public void add (int a, int b, int c) { //added by Ajmal
+		System.out.println (a+b+c);
+	}
 }
