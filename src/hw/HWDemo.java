@@ -53,6 +53,16 @@ public class HWDemo {
 			System.out.println (a-b);
   }
 	  
+	  public void multiply(int a, int b) { // Joshua 8/1/23
+		  System.out.println(a*b);
+	  }
+	  
+	  public void divide(int a, int b) { // Joshua 8/1/23
+		  System.out.println(a/b);
+	  }
+	  
+	  
+	  
 }
 
 
