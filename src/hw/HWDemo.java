@@ -47,4 +47,15 @@ public class HWDemo {
 	  public void add (int a, int b, int c) { //added by Ajmal
 		System.out.println (a+b+c);
 	}
+	  
+	  
+	  public void subtract (int a, int b) { //added by Ajmal 08/01/23
+			System.out.println (a-b);
+  }
+	  
 }
+
+
+
+
+
